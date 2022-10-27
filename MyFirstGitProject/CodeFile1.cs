@@ -6,5 +6,7 @@ class Program
     {
         Console.WriteLine("Test text");
         Console.ReadKey();
+        Console.WriteLine("Add this text to test repository");
+        Console.ReadKey();
     }
 }
